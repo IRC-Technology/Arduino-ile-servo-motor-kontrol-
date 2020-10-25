@@ -12,6 +12,6 @@ sg90.attach(10); //Servo motorumuzun data pini
 
 void loop() {   
 
-sg90.write(180); //Servo motorun dönmesini istediğiniz açı 
+sg90.write(90); //Servo motorun dönmesini istediğiniz açı 
 
 }
